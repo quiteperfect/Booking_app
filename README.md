@@ -13,7 +13,7 @@ A robust full-stack booking application developed using React, Node.js, and Mong
 
 ## Demo
 
-https://reserve-easy.vercel.app/
+
 
 
 ## Features
@@ -41,7 +41,7 @@ https://reserve-easy.vercel.app/
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/anandkumar08120/Reserve-Booking.git
+  git clone https://github.com/quiteperfect/Reserve-Booking.git
   cd client 
   npm install
   cd..
